@@ -1,0 +1,24 @@
+header {
+  text-align: center;
+}
+body {
+  background-color: lightblue;
+  padding: 15px;
+}
+.one {
+  background-color: lightgreen;
+  padding: 15px;
+}
+.two {
+  background-color: lightyellow;
+  padding: 15px;
+}
+.three {
+  background-color: lavender;
+  padding: 15px;
+}
+.special {
+  font-weight: bold;
+  font-size: 30px;
+  color: purple;
+}
